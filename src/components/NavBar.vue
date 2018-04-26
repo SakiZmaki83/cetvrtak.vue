@@ -7,9 +7,6 @@
   <div class="collapse navbar-collapse" id="navbarNav">
       <router-link class="nav-item nav-link" to="contacts">Contacts</router-link>
       <router-link class="nav-item nav-link" to="add-contact">Add Contacts</router-link>
-  
-     
-   
   </div>
 </nav>
 </template>
